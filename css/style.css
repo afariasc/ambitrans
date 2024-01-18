@@ -20251,3 +20251,7 @@ ul.custom-list {
 .none{
 list-style-type: none;
 }
+
+.text-dark {
+	color: #343a40!important;
+}
